@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://www.carnival.com/~/media/Images/explore/dining/guys-burger-joint-2.jpg");
+    text-align: center;
+}
+
+#wrapper{
+    background-color: blanchedalmond;
+    height: -webkit-fill-available;
+    border-style: solid;
+    border-color: firebrick;
+    border-bottom-style: double;
+    border-top-style: double;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    opacity: .91;
+}
+
+#burger {
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+}
+
+img {
+    width:200px; 
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+#toEat {
+    float:left;
+    width: 300px;
+    padding: 10px;
+}
+
+#eaten {
+    float: right;
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+}
+
+.form-group {
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+ }
+
+h2 {
+    color: firebrick;
+}
